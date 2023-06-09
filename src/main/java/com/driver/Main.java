@@ -7,7 +7,7 @@ public class Main {
         System.out.println(p.Product(4,5,6));
         System.out.println(p.Product(4.25,7.34));
     }
-    static class Product
+    public static class Product
     {
         public int Product(int x,int y)
         {
